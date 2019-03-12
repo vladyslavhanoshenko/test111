@@ -1,0 +1,7 @@
+C:\Users\Vladyslav_Hanoshenko\Desktop\HW3\HW3.1\HW3.1\bin\Debug\HW3.1.exe.config
+C:\Users\Vladyslav_Hanoshenko\Desktop\HW3\HW3.1\HW3.1\bin\Debug\HW3.1.exe
+C:\Users\Vladyslav_Hanoshenko\Desktop\HW3\HW3.1\HW3.1\bin\Debug\HW3.1.pdb
+C:\Users\Vladyslav_Hanoshenko\Desktop\HW3\HW3.1\HW3.1\obj\Debug\HW3.1.csprojAssemblyReference.cache
+C:\Users\Vladyslav_Hanoshenko\Desktop\HW3\HW3.1\HW3.1\obj\Debug\HW3.1.csproj.CoreCompileInputs.cache
+C:\Users\Vladyslav_Hanoshenko\Desktop\HW3\HW3.1\HW3.1\obj\Debug\HW3.1.exe
+C:\Users\Vladyslav_Hanoshenko\Desktop\HW3\HW3.1\HW3.1\obj\Debug\HW3.1.pdb
